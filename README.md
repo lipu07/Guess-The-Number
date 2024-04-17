@@ -1,2 +1,2 @@
 # Guess-The-Number
-Auther- Satyabrat sahoo
+Auther- Satyabrat sahoo (Lipu)
